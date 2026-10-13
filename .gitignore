@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Data
+data/indexes/
+data/uploads/
+*.pdf
+!data/sample_pdfs/*.pdf
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
