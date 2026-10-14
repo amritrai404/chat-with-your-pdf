@@ -361,15 +361,9 @@ MIT License — see `LICENSE` for details.
 
 ---
 
-## 📸 Screenshots
-
-Coming soon — see the live demo below.
-
----
-
 ## 🔗 Live Demo
 
-Coming soon — will be deployed on Streamlit Community Cloud.
+https://chat-with-pdf-amritrai.streamlit.app/
 
 ---
 
