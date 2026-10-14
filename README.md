@@ -10,7 +10,7 @@
 ---
 ## LIVE LINK: 
    https://chat-with-pdf-amritrai.streamlit.app/
----
+
 ## 🎯 Problem Statement
 
 Large Language Models hallucinate. If you ask GPT "What is the attendance policy in my college handbook?", it will confidently make up a number.
