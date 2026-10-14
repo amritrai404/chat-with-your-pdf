@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-## LIVE Link : 
+## LIVE APP: 
    https://chat-with-pdf-amritrai.streamlit.app/
 
 ## 🎯 Problem Statement
