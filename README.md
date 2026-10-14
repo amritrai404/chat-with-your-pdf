@@ -292,38 +292,6 @@ Tests cover:
 
 ---
 
-## 🗺️ Roadmap
-
-### ✅ Level 1 — MVP (Current)
-
-- ☑ Single PDF upload
-- ☑ Text extraction + page metadata
-- ☑ Chunking + local embeddings
-- ☑ FAISS retrieval
-- ☑ LLM answer generation
-- ☑ Page-level citations
-- ☑ No-answer fallback
-- ☑ Dark theme UI
-
-### 🚧 Level 2 — Better RAG (Next)
-
-- ☐ Chat history persistence (last 3 chats)
-- ☐ Multiple PDFs per session
-- ☐ Chunk size + top-k tuning UI
-- ☐ 30-question evaluation dataset
-- ☐ Retrieval quality metrics
-
-### 🔮 Level 3 — Production
-
-- ☐ FastAPI backend
-- ☐ Docker container
-- ☐ Persistent document storage
-- ☐ User authentication
-- ☐ AWS EC2 deployment
-- ☐ Logging + monitoring
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Please:
